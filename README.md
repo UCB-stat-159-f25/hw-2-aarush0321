@@ -5,4 +5,4 @@ _This repository is public so that Binder can find it. All code and data is base
 
 The goal of this project was to enhance the reproducibility of an already existing repository. We moved a python script with useful utilities into a new package, and changed the corresponding import statements in the Jupyter Notebook. We also created an environment.yml file with all important packages and their versions that are needed to run the notebook. We provided binder support for the new project, allowing the public to access it and experiment with it easily. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw-2-aarush0321.git/HEAD?urlpath=%2Fdoc%2Ftree%2Fhttps%3A%2F%2Fgithub.com%2FUCB-stat-159-f25%2Fhw-2-aarush0321.git)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw-2-aarush0321.git/HEAD?urlpath=%2Fdoc%2Ftree%2FLOSC_Event_tutorial.ipynb)
