@@ -2,3 +2,7 @@
 # HW 2: From Notebooks to Research Packages
 
 _This repository is public so that Binder can find it. All code and data is based on the original [LIGO Center for Open Science Tutorial Repository](https://github.com/losc-tutorial/LOSC_Event_tutorial). This repository is a class exercise that restructures the original LIGO code for improved reproducibility, as a homework assignment for the [Fall 2025 installment of UC Berkeley's Stat 159/259 course, _Reproducible and Collaborative Data Science](https://ucb-stat-159-f25.github.io/site/). Authorship of the original analysis code rests with the LIGO collaboration._
+
+The goal of this project was to enhance the reproducibility of an already existing repository. We moved a python script with useful utilities into a new package, and changed the corresponding import statements in the Jupyter Notebook. We also created an environment.yml file with all important packages and their versions that are needed to run the notebook. We provided binder support for the new project, allowing the public to access it and experiment with it easily. 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw-2-aarush0321.git/HEAD?urlpath=%2Fdoc%2Ftree%2Fhttps%3A%2F%2Fgithub.com%2FUCB-stat-159-f25%2Fhw-2-aarush0321.git)
